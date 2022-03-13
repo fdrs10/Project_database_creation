@@ -1,5 +1,4 @@
-/*Práctica Base de Datos*/
-/*Alumno Félix Díaz de Rada*/
+
 
 /*Creación de la base de datos*/
 DROP DATABASE IF EXISTS fdrs;
